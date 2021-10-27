@@ -1,1 +1,1 @@
-alert("SSUCK")
+alert("SSUCK");
