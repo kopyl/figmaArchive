@@ -8,4 +8,4 @@
 // const timer = setInterval(() => {getFigma(timer)}, 200 )
 
 
-alert('suck)
+alert('suck')
